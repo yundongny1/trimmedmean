@@ -1,3 +1,3 @@
-module trimmed_mean
+module trimmedmean
 
 go 1.22.5
